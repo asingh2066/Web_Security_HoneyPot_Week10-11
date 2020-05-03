@@ -44,4 +44,4 @@ Had some issues setting up MHN Honeypot VM using GCP (Windows)
 
 # Any unresolved questions raised by the data collected
 
-N/A
+How do I determine which attack is a malware?
